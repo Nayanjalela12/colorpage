@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_change" type="id">click on btn</item>
+    <item name="main_layout" type="id">go to main layout</item>
+    <item name="turnon" type="id">turnon</item>
+    <item name="turnoff" type="id">turnOff</item>
+</resources>
